@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+  color: white;
+}
+ img{
+  transition: 1s;
+ }
+ img:hover{
+  transform: scale(1.5);
+ }
